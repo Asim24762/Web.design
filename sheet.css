@@ -1,0 +1,25 @@
+.pn-handle{
+    color: rgb(93, 220, 30);
+    font-style: italic;
+    font-size: bolder;
+    text-decoration: none;
+}
+.pn-handle :hover{
+    color: rgb(252, 255, 65);
+}
+.bp-handle{
+color:	#a24486;
+text-decoration: none;
+}
+.bp-handle :hover{
+    color:	#ac47f5;
+}
+.btn-outline{
+    color: #a24486;
+}
+.wordpress :hover{
+color: aqua;    
+}
+#footer1{
+    float: inline-start;
+}
